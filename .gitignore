@@ -1,0 +1,6 @@
+*.comp/
+logs/
+out.dat
+*.bin
+*.o
+libtinfo.so.6
